@@ -13,14 +13,14 @@ The study was conducted by dividing it into primary analysis and secondary analy
 
 ```bash
 ├── Hyperspectral-Data-Analysis[2021] 
-|   ├── Model_Fitting.ipynb
-|   ├── Fitting_result.ipynb
-|   ├── Paper_code.ipynb
+│   ├── Model_Fitting.ipynb
+│   ├── Fitting_result.ipynb
+│   └── Paper_code.ipynb
 ├── Hyperspectral-Data-Analysis[2022]
-|   ├── Training_code.ipynb
+│   ├── Training_code.ipynb
 │   ├── Testing.ipynb  
 │   ├── Dataset_code.ipynb
-│   ├── Prediction_code.ipynb
+│   └── Prediction_code.ipynb
 └── PLS
     └── PLS_components.ipynb
 ```
