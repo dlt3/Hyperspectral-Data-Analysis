@@ -11,10 +11,16 @@ In this study, hyperspectral data related to the concentration of chlorophyll-a 
 The study was conducted by dividing it into primary analysis and secondary analysis. In the primary analysis, data analysis received in real time using hyperspectral data was used to develop a current prediction model capable of predicting Paldang Dam Chlorophyll-a and continuously updating at the same time. In the secondary analysis, the purpose was to build a pipeline to predict Chlorophyll-a at 15 minutes using hyperspectral data and meteorological/water quality data.
 
 
-├── data
-│   ├── out_data.zip
-│   ├── rf_data
-│   ├── water_data
-├── out
-├── Imputaton-Submission.ipynb
-└── Project-Submission.ipynb
+```bash
+├── Hyperspectral-Data-Analysis[2021] 
+|   ├── Model_Fitting.ipynb
+|   ├── Fitting_result.ipynb
+|   ├── Paper_code.ipynb
+├── Hyperspectral-Data-Analysis[2022]
+|   ├── Training_code.ipynb
+│   ├── Testing.ipynb  
+│   ├── Dataset_code.ipynb
+│   ├── Prediction_code.ipynb
+└── PLS
+    └── PLS_components.ipynb
+```
