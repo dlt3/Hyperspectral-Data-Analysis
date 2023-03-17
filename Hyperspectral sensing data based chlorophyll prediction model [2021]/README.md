@@ -1,4 +1,5 @@
 # Hyperspectral sensing data based chlorophyll prediction model[2021]
+Reference : https://www.mdpi.com/2073-4441/14/24/4080
 
 ### Research purpose
 - Prediction of Paldang Dam Chlorophyll-a at the same time using hyperspectral data
