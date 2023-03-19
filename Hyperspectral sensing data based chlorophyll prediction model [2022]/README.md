@@ -1,5 +1,5 @@
 # Hyperspectral sensing data based chlorophyll prediction model[2021]
-Reference : https://www.mdpi.com/2073-4441/14/24/4080
+Reference : In preprocessed
 
 ### Research purpose
 - Yangpyeong Chlorophyll-a prediction after 15 minutes using hyperspectral data, weather data and water quality data
